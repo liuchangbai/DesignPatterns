@@ -10,6 +10,7 @@ import java.awt.Shape;
 import java.awt.image.ImageObserver;
 import java.text.AttributedCharacterIterator;
 
+//又叫builder模式
 public class Main {
 	public static void main(String[] args) {
 
